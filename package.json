@@ -1,0 +1,22 @@
+{
+  "name": "week1-hw-trost",
+  "version": "1.0.0",
+  "description": "Week 1 Homework for CS233W",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trost-derek-ccc/233W-homework.git"
+  },
+  "author": "Derek Trost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trost-derek-ccc/233W-homework/issues"
+  },
+  "homepage": "https://github.com/trost-derek-ccc/233W-homework#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
